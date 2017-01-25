@@ -1339,6 +1339,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
     text-align: center;
 }
 
-
-
+html {
+    overflow-x: hidden;
+}
 
